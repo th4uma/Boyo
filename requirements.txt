@@ -1,0 +1,8 @@
+PySide6>=6.8,<7
+Pillow>=11,<13
+numpy>=2,<3
+ImageHash==4.3.2
+rawpy>=0.24,<1
+ExifRead>=3,<4
+scikit-learn>=1.5,<2
+opencv-python-headless>=4.13,<4.14

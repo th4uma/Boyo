@@ -1,0 +1,4 @@
+# The installer installs CPU-only PyTorch from its official wheel index first.
+timm==1.0.30
+safetensors>=0.8,<1
+huggingface-hub>=1,<3

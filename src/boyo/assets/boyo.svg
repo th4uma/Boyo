@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64">
+  <title>Boyo</title>
+  <desc>Two offset, looping lines form a B: a quiet visual rhythm in blue and violet.</desc>
+  <defs>
+    <linearGradient id="ground" x1="8" y1="4" x2="55" y2="61" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30374f"/>
+      <stop offset="1" stop-color="#232336"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="url(#ground)"/>
+  <g fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 16V48H35C42.7 48 47 44 47 38.5C47 32.8 42.4 29 35 29H20" stroke="#a4b6d6"/>
+    <path d="M20 16H31C38.9 16 43 19.9 43 25.5C43 31.2 38.7 35 31 35H20" stroke="#c2b3d5"/>
+  </g>
+</svg>
